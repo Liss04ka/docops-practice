@@ -1,0 +1,32 @@
+===== Системный отчёт =====
+Дата: Sat Aug 16 12:05:10 MSK 2025
+Имя хоста: Goos
+Версия ядра: 5.15.0-139-generic
+
+Свободное место на дисках:
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.7G     0  3.7G   0% /dev
+tmpfs           768M  2.0M  767M   1% /run
+/dev/nvme0n1p2  460G  151G  286G  35% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           3.8G     0  3.8G   0% /sys/fs/cgroup
+/dev/loop0      128K  128K     0 100% /snap/bare/5
+/dev/loop1       56M   56M     0 100% /snap/core18/2923
+/dev/loop2       74M   74M     0 100% /snap/core22/2010
+/dev/loop3       74M   74M     0 100% /snap/core22/2045
+/dev/loop7      6.8M  6.8M     0 100% /snap/wireguard-ammp/95
+/dev/loop4       64M   64M     0 100% /snap/core20/2599
+/dev/loop5      165M  165M     0 100% /snap/gnome-3-28-1804/194
+/dev/loop6       92M   92M     0 100% /snap/gtk-common-themes/1535
+/dev/loop8      151M  151M     0 100% /snap/figma-linux/197
+/dev/loop9      148M  148M     0 100% /snap/figma-linux/189
+/dev/loop10      56M   56M     0 100% /snap/core18/2934
+/dev/loop14      50M   50M     0 100% /snap/snapd/24792
+/dev/loop12     121M  121M     0 100% /snap/singularityapp/120
+/dev/loop15     117M  117M     0 100% /snap/singularityapp/118
+/dev/loop13      51M   51M     0 100% /snap/snapd/24718
+/dev/loop11     165M  165M     0 100% /snap/gnome-3-28-1804/198
+tmpfs           3.8G   24K  3.8G   1% /tmp
+/dev/nvme0n1p1  300M  6.1M  294M   3% /boot/efi
+tmpfs           768M   64K  768M   1% /run/user/1000
