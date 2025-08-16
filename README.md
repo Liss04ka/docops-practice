@@ -1,0 +1,3 @@
+- docs/user-guide — руководство пользователя
+- docs/api — описание API
+- docs/architecture — архитектура системы
